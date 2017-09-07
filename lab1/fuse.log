@@ -1,0 +1,41 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/Student/lab1/testbench_isim_beh.exe -prj C:/Users/Student/lab1/testbench_beh.prj work.testbench work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/Student/lab1/../Downloads/registerFile.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 61: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 62: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 63: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 64: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 65: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 66: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 67: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 68: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 69: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 70: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 71: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 72: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 73: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 74: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 59: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+WARNING:HDLCompiler:189 - "C:/Users/Student/lab1/../Downloads/registerFile.v" Line 60: Size mismatch in connection of port <writeData>. Formal port size is 32-bit while actual signal size is 1-bit.
+Completed static elaboration
+Compiling module decoder4to16
+Compiling module D_ff
+Compiling module register32bit
+Compiling module registerSet
+Compiling module mux16to1
+Compiling module mux2to1_16bits
+Compiling module busOutput
+Compiling module registerFile
+Compiling module testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 10 Verilog Units
+Built simulation executable C:/Users/Student/lab1/testbench_isim_beh.exe
+Fuse Memory Usage: 25936 KB
+Fuse CPU Usage: 624 ms

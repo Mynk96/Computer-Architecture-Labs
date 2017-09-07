@@ -1,0 +1,30 @@
+ISim log file
+Running: C:\Users\Student\lab1\testbench_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Student/lab1/testbench_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: For instance Rs1/R0/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R1/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R2/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R3/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R4/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R5/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R6/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R7/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R8/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R9/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R10/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R11/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R12/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R13/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R14/, width 32 of formal port writeData is not equal to width 1 of actual.
+WARNING: For instance Rs1/R15/, width 32 of formal port writeData is not equal to width 1 of actual.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 85 ns : File "C:/Users/Student/Downloads/registerFile.v" Line 266
