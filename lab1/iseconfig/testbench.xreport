@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-08-24T09:41:52</DateModified>
+  <DateModified>2017-09-14T09:18:50</DateModified>
   <ModuleName>testbench</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/Student/lab1/iseconfig/testbench.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Student/lab1\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/Student/Computer-Architecture-Labs/lab1/iseconfig/testbench.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Student/Computer-Architecture-Labs/lab1\</ImplementationReportsDirectory>
   <DateInitialized>2017-08-17T15:42:59</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
